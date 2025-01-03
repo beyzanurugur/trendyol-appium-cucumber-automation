@@ -6,13 +6,15 @@ Proje Hakkında
  
  -Java 11 
  
- -Appium 
+ -Appium (v2.13.1)
+
+ -AndroidUiautomator2Driver (v3.9.1)
  
  -Cucumber 
  
  -JUnit 
  
- -Allure Reports
+ -Allure Reports (v2.29.0)
 
 
 Nasıl Kullanılır?
