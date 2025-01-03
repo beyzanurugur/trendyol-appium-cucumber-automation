@@ -2,7 +2,7 @@
 
 Proje Hakkında
 --------------
- Bu proje, Trendyol mobil uygulaması için basit test senaryoları otomatize edilmiştir. Projenin geliştirilmesi için IntelliJ IDEA kullanılmış, Maven ile yapılandırılmıştır. Kullanılan teknolojiler;  
+ Bu projede, Trendyol mobil uygulaması için basit test senaryoları otomatize edilmiştir. Projenin geliştirilmesi için IntelliJ IDEA kullanılmış, Maven ile yapılandırılmıştır. Kullanılan teknolojiler;  
  
  -Java 11 
  
