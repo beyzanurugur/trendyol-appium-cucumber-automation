@@ -22,3 +22,11 @@ Nasıl Kullanılır?
 1-Projeyi çalıştırmadan önce Trendyol uygulamasının bir APK dosyasının test edilecek Android cihaza yüklenmesi gerekir.
 
 2-Testleri çalıştırmak için: src/test/java/base/TestRunner.java sınıfını ya da src/test/java/features dosyalarının içindeki senaryoları çalıştırabilirsiniz.
+
+
+İletişim
+--------
+Sorularınız veya destek talepleriniz için iletişime geçebilirsiniz:
+
+E-posta: beyza95ugur@gmail.com
+
